@@ -9,11 +9,11 @@
 <b>Network</b>
 ![Image of the Network](http://www.cs.toronto.edu/~guerzhoy/411/proj2/logreg.png)
 
-<b>Cost Function</b>
+<b>Cost Function</b><br />
 The sum of the negative log-probabilities of all the training cases
 
 ## Face Recognition
-Developed a single-hidden-layer neural network model with a custom loss function using PyTorch to classify faces extracted from 100,000 images
+Developed a single-hidden-layer neural network model with a custom loss function using PyTorch to classify faces extracted from 100,000 images<br />
 <b>Data</b>
 - A subset of the FaceScrub dataset.
 - The dataset consists of URLs of images with faces, as well as the bounding boxes of the faces.
