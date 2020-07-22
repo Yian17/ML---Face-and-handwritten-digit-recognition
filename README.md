@@ -1,5 +1,5 @@
 # Overview
-- This projects includes two classification problem: Digit Recognition and Face Recognition
+- This project investigates two classification problems: Digit Recognition and Face Recognition
 
 ## Digit Recognition
 <b>Data</b>
